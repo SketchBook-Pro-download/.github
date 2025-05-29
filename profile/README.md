@@ -10,11 +10,16 @@
 
 🎯 What You Unlock
 
-    🔓 Professional brushes and tools  
-    🎨 Advanced layer and canvas management  
-    🔈 Pressure sensitivity and pen support  
-    🔌 Plugin compatibility and hardware integration  
-    🛠 No internet or online validation needed
+🔓 Professional brushes and tools  
+    
+🎨 Advanced layer and canvas management  
+   
+ 🔈 Pressure sensitivity and pen support  
+    
+🔌 Plugin compatibility and hardware integration  
+    
+🛠 No internet or online validation needed
+
 
 🖼 Preview
 
